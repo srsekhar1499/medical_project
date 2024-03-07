@@ -1,0 +1,7 @@
+Created a user model for email authentication
+it's fields are :
+    email, password, first_name, last_name, dob, gender, height, weight
+
+created a super user:
+credentials = abc@gmail.com, 12345
+
